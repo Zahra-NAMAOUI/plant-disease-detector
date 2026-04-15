@@ -49,7 +49,7 @@ This project uses deep learning and computer vision to automatically classify pl
 
 ### 📸 Interface Preview
 
-![App Interface](images/interface.png)
+![App Interface](images/interface.jpg)
 
 ---
 
