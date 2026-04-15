@@ -75,7 +75,7 @@ plant-disease-detector/
 │   └── training.ipynb
 
 ├── images/
-│   ├── interface.png
+│   ├── interface.jpg
 │   ├── confusion_matrix.png
 │   └── training_curves.png
 
