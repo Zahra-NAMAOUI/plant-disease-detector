@@ -6,7 +6,7 @@ This project demonstrates a complete machine learning pipeline from data preproc
 ---
 ## 🚀 Live Demo
 
-🔗 Try the model online: https://your-huggingface-link
+🔗 Try the model online: https://huggingface.co/spaces/fatota/plant-disease-detector
 
 The model is deployed using Hugging Face Spaces with an interactive interface.
 
